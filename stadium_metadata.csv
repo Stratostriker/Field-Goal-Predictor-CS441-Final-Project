@@ -1,0 +1,47 @@
+stadium,stadium_id,altitude_ft
+AT&T Stadium,DAL00,575
+Acrisure Stadium,PIT00,725
+Allegiant Stadium,VEG00,2000
+Allianz Arena,GER00,1700
+Arena Corinthians,SAO00,2500
+Bank of America Stadium,CAR00,707
+Caesars Superdome,NOR00,2
+Cleveland Browns Stadium,CLE00,582
+Commanders Field,WAS00,195
+Edward Jones Dome,STL00,463
+Empower Field at Mile High,DEN00,5195
+Estadio Azteca (Mexico City),MEX00,7503
+EverBank Stadium,JAX00,3
+Ford Field,DET00,604
+Frankfurt Stadium,FRA00,370
+GEHA Field at Arrowhead Stadium,KAN00,842
+Georgia Dome,ATL00,989
+Gillette Stadium,BOS00,260
+Hard Rock Stadium,MIA00,9
+Highmark Stadium,BUF00,763
+Huntington Bank Field,CLE00,582
+Lambeau Field,GNB00,620
+Levi's® Stadium,SFO01,15
+Lincoln Financial Field,PHI00,11
+Los Angeles Memorial Coliseum,LAX99,161
+Lucas Oil Stadium,IND00,708
+Lumen Field,SEA00,16
+M&T Bank Stadium,BAL00,10
+Mercedes-Benz Stadium,ATL97,1009
+MetLife Stadium,NYC01,6
+NRG Stadium,HOU00,50
+Nissan Stadium,NAS00,397
+Northwest Stadium,WAS00,195
+Oakland-Alameda County Stadium,OAK00,0
+Paycor Stadium,CIN00,480
+Qualcomm Stadium,SDG00,53
+ROKiT Field - Dignity Health Sports Park,LAX97,78
+Raymond James Stadium,TAM00,36
+SoFi Stadium,LAX01,161
+Soldier Field,CHI98,592
+State Farm Stadium,PHO00,1068
+TCF Bank Stadium,MIN98,844
+Tottenham Hotspur Stadium,LON02,197
+Twickenham Stadium,LON01,85
+U.S. Bank Stadium,MIN01,844
+Wembley Stadium,LON00,62

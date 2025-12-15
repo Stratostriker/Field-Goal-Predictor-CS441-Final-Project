@@ -1,4 +1,4 @@
-# CS441 Final Project: Field Goal Predictor
+# CS441 Final Project: NFL Field Goal Prediction with Environmental Factors
 By Alan Gu, Varun Ramprakash, Spencer Kinsey
 
 # NFL play by play data:

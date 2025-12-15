@@ -1,4 +1,5 @@
 # CS441 Final Project: Field Goal Predictor
+By Alan Gu, Varun Ramprakash, Spencer Kinsey
 
 # NFL play by play data:
 Carl S, Baldwin B (2025). nflfastR: Functions to Efficiently Access NFL Play by Play Data. R package version 5.1.0.9008, https://www.nflfastr.com/. 
